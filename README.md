@@ -1,2 +1,2 @@
-yo i made a pause on dev tools
-but im working on it
+DEV TOOLS IS OUT
+GET THE BETA TEST NOW
